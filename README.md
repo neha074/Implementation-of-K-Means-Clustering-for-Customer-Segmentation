@@ -60,24 +60,33 @@ plt.title("customer segments")
 
 ## Output:
 
+## Datahead
+
 ![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/510ba1f3-df4b-4f92-81a6-93952d1db15f)
 
+## Info
 
 ![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/ead3d8f3-48ee-4915-8b1b-4e7f08126124)
 
 
+## Total Rows
 
 ![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/6db3c7a1-f9a2-4576-8463-fa9eae083b80)
 
+## Plot for Elbow Method
 
 ![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/0f83bfa8-b6ed-49a3-8248-1addc818c837)
 
+## K-Means Clustering
+
 ![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/8c1af17f-b773-42c3-bc89-f280fcba3dfb)
 
+## y_Pred
 
 ![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/7265c909-80b3-4835-83a7-2787be129538)
 
 
+## Plot for customer Segements
 
 ![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/3e8fcb3b-03f2-4475-afd3-256a516b8e72)
 
