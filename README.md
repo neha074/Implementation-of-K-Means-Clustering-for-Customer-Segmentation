@@ -8,10 +8,12 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import dataset and print head,info of the dataset
+2.check for null values
+3.Import kmeans and fit it to the dataset
+4.Plot the graph using elbow method
+5.Print the predicted array
+6.Plot the customer segments
 
 ## Program:
 ```
@@ -57,7 +59,28 @@ plt.title("customer segments")
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+
+![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/510ba1f3-df4b-4f92-81a6-93952d1db15f)
+
+
+![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/ead3d8f3-48ee-4915-8b1b-4e7f08126124)
+
+
+
+![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/6db3c7a1-f9a2-4576-8463-fa9eae083b80)
+
+
+![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/0f83bfa8-b6ed-49a3-8248-1addc818c837)
+
+![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/8c1af17f-b773-42c3-bc89-f280fcba3dfb)
+
+
+![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/7265c909-80b3-4835-83a7-2787be129538)
+
+
+
+![image](https://github.com/neha074/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113016903/3e8fcb3b-03f2-4475-afd3-256a516b8e72)
+
 
 
 ## Result:
